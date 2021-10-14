@@ -72,4 +72,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <repository>
+        <id>Bharath</id>
+        <url>http://18.191.15.138:8081/repository/Maven_repo/</url>
+    </repository>
+  </distributionManagement>
 </project>
